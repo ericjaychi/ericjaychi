@@ -12,6 +12,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Make Discord Bot Commands in Python](https://medium.com/better-programming/how-to-make-discord-bot-commands-in-python-2cae39cbfd55?source=rss-a78e9d90601e------2)
+- [5 Tips to Improve Your Programming Skills](https://medium.com/the-innovation/5-tips-to-improve-your-programming-skills-d0655a6e4117?source=rss-a78e9d90601e------2)
+- [Build a Discord Bot With Python](https://medium.com/better-programming/coding-a-discord-bot-with-python-64da9d6cade7?source=rss-a78e9d90601e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
