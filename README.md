@@ -12,11 +12,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How I Overcame Imposter Syndrome in Tech](https://medium.com/better-programming/how-i-overcame-imposter-syndrome-in-tech-f7b05f1291d0?source=rss-a78e9d90601e------2)
 - [Coding a REST API With Python](https://medium.com/swlh/coding-a-rest-api-with-python-77384ad60511?source=rss-a78e9d90601e------2)
 - [7 Awesome Command-Line Tools](https://medium.com/better-programming/7-awesome-command-line-tools-36cea5cfc026?source=rss-a78e9d90601e------2)
 - [Managing Your Dotfiles With Git](https://medium.com/better-programming/managing-your-dotfiles-with-git-4dee603a19a2?source=rss-a78e9d90601e------2)
 - [How to Make Discord Bot Commands in Python](https://medium.com/better-programming/how-to-make-discord-bot-commands-in-python-2cae39cbfd55?source=rss-a78e9d90601e------2)
-- [5 Tips to Improve Your Programming Skills](https://medium.com/the-innovation/5-tips-to-improve-your-programming-skills-d0655a6e4117?source=rss-a78e9d90601e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
