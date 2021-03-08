@@ -12,11 +12,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How Time Blocking Allowed Me To Accomplish More Each Day](https://medium.com/@ericjaychi/how-time-blocking-allowed-me-to-accomplish-more-each-day-b3b509e69db6?source=rss-a78e9d90601e------2)
 - [Implementing AsyncStorage in React Native](https://betterprogramming.pub/implementing-asyncstorage-in-react-native-911767deba3e?source=rss-a78e9d90601e------2)
 - [Improving Your GitHub Profile with Profile READMEs](https://medium.com/@ericjaychi/improving-your-github-profile-with-profile-readmes-795412a083dd?source=rss-a78e9d90601e------2)
 - [Make a CLI in 50 Lines of Python Code](https://betterprogramming.pub/make-a-cli-in-50-lines-of-python-code-158c378eb4bd?source=rss-a78e9d90601e------2)
 - [How Much I Earned During My First 6 Months on Medium](https://medium.com/@ericjaychi/how-much-i-earned-during-my-first-6-months-on-medium-3ff3d121bbf7?source=rss-a78e9d90601e------2)
-- [5 Projects to Kick Off the New Year](https://medium.com/swlh/5-projects-to-kick-off-the-new-year-5789b3b0c62f?source=rss-a78e9d90601e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
