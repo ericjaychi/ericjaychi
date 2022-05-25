@@ -21,7 +21,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ericjaychi&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ericjaychi&show_icons=true&theme=tokyonight" />
 
 [website]: https://ericjaychi.com/
 [twitter]: https://twitter.com/ericjaychi
